@@ -123,7 +123,7 @@ model User {
 2. userRoute: Defines the API endpoints for user operations and maps them to the corresponding controller methods.
 3. Cors to enable frontend to hit the backend url.
 
-###Frontend
+### Frontend
 
 1. MUI Components Used
    - Table
